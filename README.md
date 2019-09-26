@@ -1,4 +1,5 @@
-# Othmer's example 1
+# Othmer's example 2
 
-Example 1
-![image](https://user-images.githubusercontent.com/25401663/64939445-9a6fae00-d87e-11e9-99a9-22b32e8cd3a8.png)
+Example 2
+
+![image](https://user-images.githubusercontent.com/25401663/64939459-ab202400-d87e-11e9-89ea-5f3da794cf1f.png)
