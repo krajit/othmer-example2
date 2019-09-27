@@ -27,7 +27,7 @@ boundaryField
 
     outlet
     {
-        type            adjointOutletPressurePower; //adjointOutletPressure;
+        type            adjointOutletPressureUni; //adjointOutletPressure;
         value           uniform 0;
     }
 
